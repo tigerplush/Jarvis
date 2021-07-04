@@ -1,0 +1,25 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jarvis.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.2.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigerplush/Jarvis.git"
+  },
+  "author": "Christopher 'Tiger' Putz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigerplush/Jarvis/issues"
+  },
+  "homepage": "https://github.com/tigerplush/Jarvis#readme"
+}
