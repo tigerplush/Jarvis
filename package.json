@@ -1,6 +1,6 @@
 {
   "name": "jarvis",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "jarvis.js",
   "dependencies": {
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/tigerplush/Jarvis.git"
   },
-  "author": "Christopher 'Tiger' Putz",
+  "author": "Emily 'Tiger' Putz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tigerplush/Jarvis/issues"
