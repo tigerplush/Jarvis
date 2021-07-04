@@ -1,7 +1,7 @@
 {
-  "name": "jarvis",
+  "name": "Jarvis",
   "version": "1.1.0",
-  "description": "",
+  "description": "A simple bot for the old Marvel RPG",
   "main": "jarvis.js",
   "dependencies": {
     "discord": "^0.8.2",
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/tigerplush/Jarvis/issues"
   },
-  "homepage": "https://github.com/tigerplush/Jarvis#readme"
+  "homepage": "https://github.com/tigerplush/Jarvis"
 }
